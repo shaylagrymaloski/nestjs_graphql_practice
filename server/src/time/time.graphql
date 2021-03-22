@@ -1,0 +1,10 @@
+type Time{
+    hour: Int
+    min: Int
+    sec: Int
+
+}
+
+type Query{
+    time: Time
+}
